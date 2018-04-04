@@ -1,0 +1,4 @@
+C:\_work\__project\project_Hansen\HanSL.Log\HanSL.Log\HanSL.Log\bin\Debug\HanSL.Log.dll
+C:\_work\__project\project_Hansen\HanSL.Log\HanSL.Log\HanSL.Log\bin\Debug\HanSL.Log.pdb
+C:\_work\__project\project_Hansen\HanSL.Log\HanSL.Log\HanSL.Log\obj\Debug\HanSL.Log.dll
+C:\_work\__project\project_Hansen\HanSL.Log\HanSL.Log\HanSL.Log\obj\Debug\HanSL.Log.pdb

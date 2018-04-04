@@ -1,0 +1,6 @@
+C:\_work\__project\project_Hansen\HanSL.Log\HanSL.Log\LogTest\bin\Debug\LogTest.exe
+C:\_work\__project\project_Hansen\HanSL.Log\HanSL.Log\LogTest\bin\Debug\LogTest.pdb
+C:\_work\__project\project_Hansen\HanSL.Log\HanSL.Log\LogTest\bin\Debug\HanSL.Log.dll
+C:\_work\__project\project_Hansen\HanSL.Log\HanSL.Log\LogTest\bin\Debug\HanSL.Log.pdb
+C:\_work\__project\project_Hansen\HanSL.Log\HanSL.Log\LogTest\obj\x86\Debug\LogTest.exe
+C:\_work\__project\project_Hansen\HanSL.Log\HanSL.Log\LogTest\obj\x86\Debug\LogTest.pdb
